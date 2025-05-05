@@ -13,3 +13,13 @@ capstone_functional.ipynb
 This file is a streamlined version of the project, which operates on a .txt file and generates a .txt file as output.
 
 Support Files:
+cognates_final.csv
+This file contains lists of approximately 1500 cognates each for English-Spanish, English-French, English-Haitian Creole, and English-Portuguese.
+eap_asl.csv
+This file contains the academic word list from eapfoundation.com, with inflected forms and head-words.
+eap_gsl.csv
+This file contains the general service word list from eapfoundation.com, with relative frequency values.
+longman_final.csv
+This file contains the relative frequency values of words in the "longman communication 3000." Double weight is given to the written corpus.
+classifier_v4.joblib
+This file contains the values of the trained random forest model.
